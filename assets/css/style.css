@@ -53,6 +53,12 @@ header p
   font-size: 1.125em;
   color: #7f888f;
 }
+.img
+{
+  width: 500px;
+  height: 500px;
+  border-radius: 3%;
+}
 
 ul.icons li 
 {
